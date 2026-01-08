@@ -15,7 +15,6 @@
 -  Experienced in R, and have worked with Python, SQL for sports-based portfolios and datasets.  
 -  Exploring computer vision and ML (PyTorch) for player tracking and football analytics.  
 -  Outdoors lover, husband, and dad who wants to learn more about the world of codes after bedtime.
-
 ---
 ## Languages & tools
 

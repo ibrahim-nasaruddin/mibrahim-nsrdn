@@ -4,8 +4,6 @@
 
 <p align="center">
   Turning athlete data into Actionable Insights • Football analytics • R, Python, SQL
-
-[![trophy](https://github-profile-trophy-fork-two.vercel.app/?username=ibrahim-nasaruddin&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 ---
 
 ## About me
